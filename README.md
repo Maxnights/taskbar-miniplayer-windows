@@ -1,3 +1,7 @@
+
+![ez11gif-7485ed9ff88bb7b5](https://github.com/user-attachments/assets/44b57ee9-2fb1-4334-a14f-ee6103303768)
+
+
 # MiniPlayer
 Lightweight media control widget for the Windows taskbar
 ## ✨ Key Features
